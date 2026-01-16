@@ -51,8 +51,8 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* “中国光谷_华为杯”第十九届中国研究生数学建模竞赛二等奖
+
 
 # 📖 Educations
 - *2020.06 - now*, School of Electronic Information, Wuhan University. 
