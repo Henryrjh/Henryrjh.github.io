@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-hhh.
+I am a Ph.D. student at the School of Electronic Information, Wuhan University (2020–present). My main research interests include super-resolution, multimodal matching, stereo matching, and deep learning.
 
 
 # 🔥 News
