@@ -51,6 +51,10 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 
 # 🎖 Honors and Awards
+
+- 2024 — First-Class Academic Excellence Scholarship, Wuhan University
+2024年武汉大学研究生一等优秀学业奖学金
+
 - *2022* “中国光谷_华为杯”第十九届中国研究生数学建模竞赛二等奖
 
 
