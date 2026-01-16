@@ -38,12 +38,14 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2025</div><img src='_pages/TGRNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Satellite image stereo matching</div><img src='_pages/TGRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831)
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
+
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (SCI Q2)
 </div>
 </div>
 
