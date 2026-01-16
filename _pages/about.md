@@ -26,12 +26,14 @@ hhh.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Geoscience and Remote Sensing 2024</div><img src='_pages/DCRT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sonar blind image super-resolution</div><img src='_pages/DCRT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
 
 **Jiahao Rao**; Yini Peng; Jun Chen; Xin Tian
+
+IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF=8.6)
 </div>
 </div>
 
