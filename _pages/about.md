@@ -32,7 +32,8 @@ hhh.
 [Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
 
 **Jiahao Rao**; Yini Peng; Jun Chen; Xin Tian
-
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
