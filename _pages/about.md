@@ -45,10 +45,23 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (SCI Q2)
+ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (SCI Q1 TOP, IF=12.2)
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-modal image matching</div><img src='_pages/AMS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213)
+
+**Jiahao Rao**; Rui Liu; Jianjun Guan; Xin Tian
+
+Show more
+
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (SCI Q2)
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
