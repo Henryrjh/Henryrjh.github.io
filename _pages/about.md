@@ -45,7 +45,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
-ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (SCI Q1 TOP, IF=12.2)
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (SCI Q2)
 </div>
 </div>
 
@@ -57,9 +57,8 @@ ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (SCI Q1 TOP, IF
 
 **Jiahao Rao**; Rui Liu; Jianjun Guan; Xin Tian
 
-Show more
+ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (SCI Q1 TOP, IF=12.2)
 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (SCI Q2)
 </div>
 </div>
 
