@@ -21,7 +21,7 @@ I am a Ph.D. student at the School of Electronic Information, Wuhan University (
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our paper has been accepted on ISPRS!
+- *2026.01*: &nbsp;🎉🎉 Our paper has been accepted to ISPRS!
 
 
 # 📝 Publications 
