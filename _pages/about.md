@@ -25,6 +25,19 @@ I am a Ph.D. student at the School of Electronic Information, Wuhan University (
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Satellite image stereo matching</div><img src='_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)
+
+**Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
+
+IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF=8.6)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-modal image matching</div><img src='_pages/AMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
