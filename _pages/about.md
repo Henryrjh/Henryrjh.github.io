@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div style="text-align: right; margin-bottom: 20px;"><a href="/zh/" style="padding: 5px 10px; background-color: #eee; color: #333; border-radius: 5px; text-decoration: none; font-weight: bold;">🇨🇳 切换至纯中文版</a></div>
+
 I am a Ph.D. student at the School of Electronic Information, Wuhan University (2020–present). My main research interests include super-resolution, multimodal matching, stereo matching, and deep learning.
 
 
