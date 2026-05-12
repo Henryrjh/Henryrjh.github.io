@@ -1,5 +1,7 @@
 ---
 permalink: /zh/
+redirect_from:
+  - /zh
 title: ""
 excerpt: ""
 author_profile: true
@@ -14,7 +16,7 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-<div style="text-align: right; margin-bottom: 20px;"><a href="/" style="padding: 5px 10px; background-color: #eee; color: #333; border-radius: 5px; text-decoration: none; font-weight: bold;">🌐 English</a></div>
+<div style="text-align: right; margin-bottom: 20px;"><a href="{{ '/' | relative_url }}" style="padding: 5px 10px; background-color: #eee; color: #333; border-radius: 5px; text-decoration: none; font-weight: bold;">🌐 English</a></div>
 
 我是武汉大学电子信息学院的在读博士生（2020年至今）。主要研究方向包括超分辨率、多模态匹配、立体匹配和深度学习。
 
