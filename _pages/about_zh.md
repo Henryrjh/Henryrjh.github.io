@@ -35,7 +35,7 @@ author_profile: true
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
-IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026s s, (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=8.6}}$**)
+IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=8.6}}$**)
 
 </div>
 </div>
