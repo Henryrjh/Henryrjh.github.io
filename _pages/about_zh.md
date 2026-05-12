@@ -63,7 +63,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">声纳盲图超分辨率</div><img src='/_pages/DCRT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">声呐图盲超分辨率</div><img src='/_pages/DCRT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
