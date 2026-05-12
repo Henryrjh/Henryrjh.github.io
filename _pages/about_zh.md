@@ -26,51 +26,33 @@ author_profile: true
 
 # 📝 论文成果
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### 卫星图像立体匹配
+![UA-SISM](/_pages/UA-SISM.png)
 
-[Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)
-
-**Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
-
+[Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)  
+**Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian  
 IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF=8.6)
 
-</div>
-</div>
+### 多模态图像匹配
+![AMS](/_pages/AMS.png)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">多模态图像匹配</div><img src='_pages/AMS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213)
-
-**Jiahao Rao**; Rui Liu; Jianjun Guan; Xin Tian
-
+[AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213)  
+**Jiahao Rao**; Rui Liu; Jianjun Guan; Xin Tian  
 ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (SCI Q1 TOP, IF=12.2)
 
-</div>
-</div>
+### 卫星图像立体匹配
+![TGRNet](/_pages/TGRNet.png)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='_pages/TGRNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831)
-
-**Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
-
+[Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831)  
+**Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian  
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (SCI Q2)
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">声纳盲图超分辨率</div><img src='_pages/DCRT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### 声纳盲图超分辨率
+![DCRT](/_pages/DCRT.png)
 
-[Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
-
-**Jiahao Rao**; Yini Peng; Jun Chen; Xin Tian
-
-IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF=8.6)
-</div>
-</div>
+[Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)  
+**Jiahao Rao**; Yini Peng; Jun Chen; Xin Tian  
+IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (SCI Q1 TOP, IF=8.6)
 
 # 🎖 荣誉奖项
 
