@@ -26,7 +26,7 @@ author_profile: true
 
 # 📝 论文成果
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)
@@ -38,7 +38,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">多模态图像匹配</div><img src='_pages/AMS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">多模态图像匹配</div><img src='/_pages/AMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213)
@@ -50,7 +50,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (SCI Q1 TOP, IF
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='_pages/TGRNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/TGRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831)
@@ -61,7 +61,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">声纳盲图超分辨率</div><img src='_pages/DCRT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">声纳盲图超分辨率</div><img src='/_pages/DCRT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
