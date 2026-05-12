@@ -35,7 +35,7 @@ author_profile: true
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
-IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (**$\color{red}{\text{中科院SCI 1区 TOP, IF=8.6}}$**)
+IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026s s, (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=8.6}}$**)
 
 </div>
 </div>
@@ -47,7 +47,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (**$\color{red}
 
 **Jiahao Rao**; Rui Liu; Jianjun Guan; Xin Tian
 
-ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}{\text{中科院SCI 1区 TOP, IF=12.2}}$**)
+ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=12.2}}$**)
 
 </div>
 </div>
@@ -59,7 +59,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (**$\color{red}{\text{中科院SCI 2区 TOP, IF=5.3}}$**)
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (**$\color{red}{\text{中科院 SCI 2区 TOP, IF=5.3}}$**)
 </div>
 </div>
 
@@ -70,7 +70,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 **Jiahao Rao**; Yini Peng; Jun Chen; Xin Tian
 
-IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{\text{中科院SCI 1区 TOP, IF=8.6}}$**)
+IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=8.6}}$**)
 </div>
 </div>
 
