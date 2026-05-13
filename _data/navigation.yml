@@ -12,6 +12,9 @@ main:
   - title: "Patents"
     url: "/#-invention-patents"
 
+  - title: "Contest"
+    url: "/#-contest"
+
   - title: "Honors"
     url: "/#-honors"
 
