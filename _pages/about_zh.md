@@ -86,6 +86,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{
 
 [5] [一种基于多尺度几何编码和纹理解码的卫星图像视差估计方法](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAh2HErXj62jWNe4rAcyHVN4lfoOB3TIpuPgufKbszvQbRlLmIV4STO_oqZkxygX_pt30tPNuItwTjzkcr0lHHTK5zk5ay7QSVBnWpovlzVAI43P7oI04rIkPqz27CnYhRL2JwRRJicrhLZMq2F2Gn3FNr6eEPjkay5iQ-o-5Ca2jw==&uniplatform=NZKPT&language=CHS)
 
+
 # 🏆 竞赛
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">数模</div><img src='/_pages/2022_math.png' alt="sym" width="100%"></div></div>
@@ -95,6 +96,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{
 
 </div>
 </div>
+
 
 # 🎖 荣誉奖项
 
@@ -106,6 +108,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{
 - *2017* 年武汉大学优秀学生
 - *2017* 年武汉大学优秀学生奖学金
 - *2016* 年武汉大学本科新生奖学金
+
 
 # 📖 教育经历
 - *2020.06 - 至今*，武汉大学电子信息学院（硕博连读）
