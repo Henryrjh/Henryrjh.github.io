@@ -31,7 +31,7 @@ author_profile: true
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[1] [Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089) [代码](https://github.com/Henryrjh/UA-SISM)
+[1] [Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089) [$\color{red}{\text{代码}}$](https://github.com/Henryrjh/UA-SISM)
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
