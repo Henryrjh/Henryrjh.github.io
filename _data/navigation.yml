@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-   - title: "Patents"
-    url: "/#-Invention Patent"   
+  - title: "Patents"
+    url: "/#-invention-patents"
 
   - title: "Honors"
-    url: "/#-honors-and-awards"
+    url: "/#-honors"
 
   - title: "Educations"
     url: "/#-educations"
