@@ -26,7 +26,7 @@ author_profile: true
 - *2026.01*: &nbsp;🎉🎉 我们的论文被 ISPRS 接收！
 
 
-# 📝 论文成果
+# 📝 科研成果
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
