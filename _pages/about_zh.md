@@ -26,7 +26,9 @@ author_profile: true
 - *2026.01*: &nbsp;🎉🎉 我们的论文被 ISPRS 接收！
 
 
-# 📝 科研成果
+# 🔬 科研成果
+
+## 📄 学术论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,6 +75,8 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=8.6}}$**)
 </div>
 </div>
+
+## 💡 发明专利
 
 # 🎖 荣誉奖项
 
