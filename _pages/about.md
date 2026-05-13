@@ -103,7 +103,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (**$\color{red}
 2024年武汉大学研究生一等优秀学业奖学金
 - 2022 — Second-Class Academic Excellence Scholarship, Wuhan University
 2024年武汉大学研究生二等优秀学业奖学金
-- *2022* “中国光谷_华为杯”第十九届中国研究生数学建模竞赛二等奖
+
 
 
 # 📖 Educations
