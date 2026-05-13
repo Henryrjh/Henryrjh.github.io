@@ -92,7 +92,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (**$\color{red}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">数模</div><img src='/_pages/2022_math.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*2022* "中国光谷_华为杯"第十九届中国研究生数学建模竞赛二等奖
+*2022* Second Prize in the 19th China Graduate Mathematical Contest in Modeling, “China Optics Valley · Huawei Cup” (*2022* "中国光谷_华为杯"第十九届中国研究生数学建模竞赛二等奖)
 
 </div>
 </div>
@@ -100,9 +100,9 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (**$\color{red}
 # 🎖 Honors
 
 - 2024 — First-Class Academic Excellence Scholarship, Wuhan University
-2024年武汉大学研究生一等优秀学业奖学金
+(2024年武汉大学研究生一等优秀学业奖学金)
 - 2022 — Second-Class Academic Excellence Scholarship, Wuhan University
-2024年武汉大学研究生二等优秀学业奖学金
+(2024年武汉大学研究生二等优秀学业奖学金)
 
 
 
