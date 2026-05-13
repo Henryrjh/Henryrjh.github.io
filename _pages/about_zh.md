@@ -88,7 +88,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{
 
 # 🏆 竞赛
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数模</div><img src='/_pages/DCRT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数模</div><img src='/_pages/2022_math.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *2022* "中国光谷_华为杯"第十九届中国研究生数学建模竞赛二等奖
