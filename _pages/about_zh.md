@@ -26,9 +26,7 @@ author_profile: true
 - *2026.01*: &nbsp;🎉🎉 我们的论文被 ISPRS 接收！
 
 
-# 🔬 科研成果
-
-## 📄 学术论文
+# 📄 学术成果
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +74,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{
 </div>
 </div>
 
-## 💡 发明专利
+# 💡 发明专利
 
 [1] [基于Faster R-CNN的电力线异物检测方法](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAhxm55u-wufAxrXfEyR7_1V18h3Z1y9ebnHlVHtFJIOfOimY3tDU9qLTUqc5L-XjrJpE98XDsB_zABKDEMT_9QYO73F_rKNXDh2ie0DWY7rLGupG0xMfdZ-SnM2hwChZN8xMtfBqOH-H7KBWH7BNk2K4l5IufYmzckpoTDS4p_1GQ==&uniplatform=NZKPT&language=CHS)
 
