@@ -10,10 +10,10 @@ main:
     url: "/#-publications"
 
   - title: "Patents"
-    url: "/#-patents"
+    url: "/#-invention-patents"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honors"
+    url: "/#-honors"
 
   - title: "Educations"
     url: "/#-educations"
