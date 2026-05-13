@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="text-align: right; margin-bottom: 20px;"><a href="{{ '/zh/' | relative_url }}" style="padding: 5px 10px; background-color: #eee; color: #333; border-radius: 5px; text-decoration: none; font-weight: bold;">🇨🇳 切换至纯中文版</a></div>
 
-I am a Ph.D. student (Master-Doctor Combined Program) at the School of Electronic Information, Wuhan University (2020–present). My main research interests include super-resolution, multimodal matching, stereo matching, and deep learning.
+I am a Ph.D. student (Master-Doctor Combined Program) at the School of Electronic Information, Wuhan University (2020–present). My main research interests include super-resolution, multimodal matching, stereo matching, and deep learning(AI).
 
 
 # 🔥 News
