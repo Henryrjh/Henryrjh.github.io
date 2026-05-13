@@ -78,6 +78,16 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{
 
 ## 💡 发明专利
 
+[1] [基于Faster R-CNN的电力线异物检测方法](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAhxm55u-wufAxrXfEyR7_1V18h3Z1y9ebnHlVHtFJIOfOimY3tDU9qLTUqc5L-XjrJpE98XDsB_zABKDEMT_9QYO73F_rKNXDh2ie0DWY7rLGupG0xMfdZ-SnM2hwChZN8xMtfBqOH-H7KBWH7BNk2K4l5IufYmzckpoTDS4p_1GQ==&uniplatform=NZKPT&language=CHS)
+
+[2] [一种基于双边生成对抗网络的线扫描图像超分辨率方法](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAhy7MX8eELtC-RZVclPnXLvXqJC8iZcIe9iVZJLrFmwb9DmS5iZniNdsWVzXPsRgV_0tdTTgoqcz_sPfWMU3bisZYGRUJj37B6y1D_MfFZMJDsdbMvygKI646-O4rsXwFBrV14dPPn7-ipSrXZ--g5wxjgzfkcF9A1Qc4IerJltug==&uniplatform=NZKPT&language=CHS)
+
+[3] [一种基于Transformer的合成孔径雷达图像盲超分辨率方法和装置](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAgQiRhr5XBnOgUiEVt2ybpv3Fl-BEW2rRRAbv3JQZTPDcL0JEpxG-pltZxXsP9PcR4dG6WYI35dkXneoxyi0ri345UUkxovUXulWOnS4SK1aO5nkrfQDg-U5-fyB8-rwB6IGiLVbFFgsCAff9l7rvznhjSOOW_XSoOXesdcg84g3w==&uniplatform=NZKPT&language=CHS)
+
+[4] [一种融合多维度自注意力的声呐图像盲超分辨率方法和设备](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAjvMPuCoDqOt4iKgEfVNeFWF9OkvrodovB2zKurrqC9zoB8HTSLgY6AjoJkjnPPwnCmmGncTxkubqF1z47vFfZuUievtkJoLpXBnnph0S29IFrw06RugHcuj_ETYbE_f96EsqitlxfjW18ZfmeSZi9rZt3qEfrGjeLqmoKWT4fByw==&uniplatform=NZKPT&language=CHS)
+
+[5] [一种基于多尺度几何编码和纹理解码的卫星图像视差估计方法](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAh2HErXj62jWNe4rAcyHVN4lfoOB3TIpuPgufKbszvQbRlLmIV4STO_oqZkxygX_pt30tPNuItwTjzkcr0lHHTK5zk5ay7QSVBnWpovlzVAI43P7oI04rIkPqz27CnYhRL2JwRRJicrhLZMq2F2Gn3FNr6eEPjkay5iQ-o-5Ca2jw==&uniplatform=NZKPT&language=CHS)
+
 # 🎖 荣誉奖项
 
 - 2024年武汉大学研究生一等优秀学业奖学金
@@ -86,5 +96,5 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{
 
 
 # 📖 教育经历
-- *2020.06 - 至今*，武汉大学电子信息学院（博士）
+- *2020.06 - 至今*，武汉大学电子信息学院（硕博连读）
 - *2016.09 - 2020.06*，武汉大学电子信息学院（本科）
