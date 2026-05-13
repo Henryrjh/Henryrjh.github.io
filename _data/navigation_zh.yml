@@ -6,8 +6,11 @@ main:
   - title: "最新动态"
     url: "/zh/#-最新动态"
 
-  - title: "论文成果"
-    url: "/zh/#-论文成果"
+  - title: "学术成果"
+    url: "/zh/#-学术成果"
+
+  - title: "发明专利"
+    url: "/zh/#-发明专利"
 
   - title: "荣誉奖项"
     url: "/zh/#-荣誉奖项"
