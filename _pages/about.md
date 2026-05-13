@@ -75,6 +75,8 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF
 </div>
 </div>
 
+# 💡 Patents
+
 # 🎖 Honors and Awards
 
 - 2024 — First-Class Academic Excellence Scholarship, Wuhan University
