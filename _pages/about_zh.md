@@ -33,7 +33,7 @@ author_profile: true
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)
+[1] [Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
@@ -45,7 +45,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026 (**$\color{red}{
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">多模态图像匹配</div><img src='/_pages/AMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213)
+[2] [AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213)
 
 **Jiahao Rao**; Rui Liu; Jianjun Guan; Xin Tian
 
@@ -57,7 +57,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/TGRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831)
+[3] [Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831)
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
@@ -68,7 +68,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">声呐图盲超分辨率</div><img src='/_pages/DCRT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
+[4] [Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
 
 **Jiahao Rao**; Yini Peng; Jun Chen; Xin Tian
 
