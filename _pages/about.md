@@ -87,6 +87,16 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (**$\color{red}
 
 [5] [一种基于多尺度几何编码和纹理解码的卫星图像视差估计方法](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAh2HErXj62jWNe4rAcyHVN4lfoOB3TIpuPgufKbszvQbRlLmIV4STO_oqZkxygX_pt30tPNuItwTjzkcr0lHHTK5zk5ay7QSVBnWpovlzVAI43P7oI04rIkPqz27CnYhRL2JwRRJicrhLZMq2F2Gn3FNr6eEPjkay5iQ-o-5Ca2jw==&uniplatform=NZKPT&language=CHS)
 
+# 🏆 Contest
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数模</div><img src='/_pages/2022_math.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*2022* "中国光谷_华为杯"第十九届中国研究生数学建模竞赛二等奖
+
+</div>
+</div>
+
 # 🎖 Honors
 
 - 2024 — First-Class Academic Excellence Scholarship, Wuhan University
