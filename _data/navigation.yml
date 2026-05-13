@@ -9,7 +9,10 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
+   - title: "Patents"
+    url: "/#-Invention Patent"   
+
+  - title: "Honors"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
