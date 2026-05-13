@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="text-align: right; margin-bottom: 20px;"><a href="{{ '/zh/' | relative_url }}" style="padding: 5px 10px; background-color: #eee; color: #333; border-radius: 5px; text-decoration: none; font-weight: bold;">🇨🇳 切换至纯中文版</a></div>
 
-I am a Ph.D. student at the School of Electronic Information, Wuhan University (2020–present). My main research interests include super-resolution, multimodal matching, stereo matching, and deep learning.
+I am a Ph.D. student (Master-Doctor Combined Program) at the School of Electronic Information, Wuhan University (2020–present). My main research interests include super-resolution, multimodal matching, stereo matching, and deep learning.
 
 
 # 🔥 News
@@ -36,7 +36,7 @@ I am a Ph.D. student at the School of Electronic Information, Wuhan University (
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
-IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF=8.6)
+IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026, (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=8.6}}$**)
 
 </div>
 </div>
@@ -48,7 +48,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF
 
 **Jiahao Rao**; Rui Liu; Jianjun Guan; Xin Tian
 
-ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (SCI Q1 TOP, IF=12.2)
+ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=12.2}}$**)
 
 </div>
 </div>
@@ -60,7 +60,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (SCI Q1 TOP, IF
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (SCI Q2)
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 (**$\color{red}{\text{中科院 SCI 2区 TOP, IF=5.3}}$**)
 </div>
 </div>
 
@@ -71,7 +71,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 **Jiahao Rao**; Yini Peng; Jun Chen; Xin Tian
 
-IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF=8.6)
+IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=8.6}}$**)
 </div>
 </div>
 
@@ -97,5 +97,5 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (SCI Q1 TOP, IF
 
 
 # 📖 Educations
-- *2020.06 - now*, School of Electronic Information, Wuhan University. 
-- *2016.09 - 2020.06*, School of Electronic Information, Wuhan University. 
+- *2020.06 - now*, School of Electronic Information, Wuhan University. (Master-Doctor Combined Program)
+- *2016.09 - 2020.06*, School of Electronic Information, Wuhan University. (Undergraduate)
