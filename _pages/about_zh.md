@@ -74,7 +74,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人因可靠性分析</div><img src='/_pages/DCRT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">人因可靠性分析</div><img src='/_pages/terminal_risk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [5] [户外端子箱操作人因可靠性及其风险评价]([https://ieeexplore.ieee.org/abstract/document/10522780](https://kns.cnki.net/kcms2/article/abstract?v=LM91IAda-MdU3Z9xWHlDgRzzY078bQb-f6AVWxvUgBH-bhIJYNk4Imu1D7k_USmscb9mUZsujrUXIyObrIFwzwPDD0_kxiLomoB3mCdoxLgmgRrZNsPO07nBgsvEwVtj4BRn_6OaanE223ArWbGQ5fZyKmuQDiURajKCK_ZiBMIJ6sLwQ-XmdA&uniplatform=NZKPT&captchaId=5279f180-6460-469a-b165-5b418bd8af7a))
