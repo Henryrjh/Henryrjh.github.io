@@ -75,6 +75,19 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (**$\color{red}
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Human Reliability Analysis</div><img src='/_pages/terminal_risk.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+
+[5] [Human Reliability and Risk Assessment of Outdoor Terminal Box Operations](https://kns.cnki.net/kcms2/article/abstract?v=LM91IAda-MdU3Z9xWHlDgRzzY078bQb-f6AVWxvUgBH-bhIJYNk4Imu1D7k_USmscb9mUZsujrUXIyObrIFwzwPDD0_kxiLomoB3mCdoxLgmgRrZNsPO07nBgsvEwVtj4BRn_6OaanE223ArWbGQ5fZyKmuQDiURajKCK_ZiBMIJ6sLwQ-XmdA&uniplatform=NZKPT&captchaId=5279f180-6460-469a-b165-5b418bd8af7a)
+
+Shilin Li; **Jiahao Rao**; Rui Li; Yongqing Chen; Chongliang Zhang; Meng Tian
+
+*China Safety Science Journal*, 2021(**$\color{red}{\text{北大中文核心}}$**)
+  </div>
+</div>
+
+
+
 # 💡 Invention Patents
 
 [1] [基于Faster R-CNN的电力线异物检测方法](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAhxm55u-wufAxrXfEyR7_1V18h3Z1y9ebnHlVHtFJIOfOimY3tDU9qLTUqc5L-XjrJpE98XDsB_zABKDEMT_9QYO73F_rKNXDh2ie0DWY7rLGupG0xMfdZ-SnM2hwChZN8xMtfBqOH-H7KBWH7BNk2K4l5IufYmzckpoTDS4p_1GQ==&uniplatform=NZKPT&language=CHS)
