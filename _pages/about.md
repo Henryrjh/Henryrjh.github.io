@@ -100,6 +100,16 @@ Shilin Li; **Jiahao Rao**; Rui Li; Yongqing Chen; Chongliang Zhang; Meng Tian
 
 [5] [田昕，饶佳豪. 一种基于多尺度几何编码和纹理解码的卫星图像视差估计方法](https://kns.cnki.net/kcms2/article/abstract?v=j0ZbOfXgIAh2HErXj62jWNe4rAcyHVN4lfoOB3TIpuPgufKbszvQbRlLmIV4STO_oqZkxygX_pt30tPNuItwTjzkcr0lHHTK5zk5ay7QSVBnWpovlzVAI43P7oI04rIkPqz27CnYhRL2JwRRJicrhLZMq2F2Gn3FNr6eEPjkay5iQ-o-5Ca2jw==&uniplatform=NZKPT&language=CHS)
 
+[6] [一种基于边缘计算的脆弱线路识别方法及结构](https://kns.cnki.net/kcms2/article/abstract?v=yLAonKG4u-RaCf_VjLNPD0X4iU60fsP0ddy3FwYiTyHciw0XdEg_PHluGufQVexxZ6cupcip_MRFfPMlw4lUmkBwQlq-HNYday9Y-GOqLCwzJVD_L4uj3B3IOsIriyXOVg-LQ0JfyVlX3rUmqUCm9bIDp2qFxzENkz4Lg7Ue9Lu4MFejr6kacwCvDdNuzL4T&uniplatform=NZKPT&captchaId=c8f6ef1e-8143-4ae5-93a6-8a327a7068bf)
+
+[7] [一种异常用电样本清洗及行为识别方法](https://kns.cnki.net/kcms2/article/abstract?v=yLAonKG4u-QrOJTO_IrhJLYzvXvpU7UY9agEMgFQ2B8fsXkI7XZQ-fT3AYSkU22IVHu7AAe9Hi2TfuLHLphe7rL6FszWQWnzaQ0A8rleDvvL-4w66T6VZzl4AtlzXXqY6XRMN5lFvDrWCCN0NzLXMLflghhcGBxSUeh9FlmBmVkj8w0ZApCkMjaBezj38_GU&uniplatform=NZKPT&captchaId=040f9f5f-23ae-452c-914a-e35d2ed57ece)
+
+[8] [一种面向用电信息采集系统的智能防窃电方法](https://kns.cnki.net/kcms2/article/abstract?v=yLAonKG4u-S5CLE0gGoQpfMAJ-FWN6xvbIsY9E5yvpKHEl_Ub4lWBMbcNMGVYRTFB4x9V26GxFpR3u1_bw_H2UIncqWSCaPqQZlwJDtU74hfLN3PybM-AWNIK440Kbhe-D00DaiqWvoV4XJpAoo27EYee8poDsUPCVb48_05nKPDtsf8uh8euPNJBO_xIfPw&uniplatform=NZKPT&captchaId=5dc03468-9e5c-4aa9-b162-a2145cd7cfcf)
+
+[9] [一种面向智能电表的辅助防窃电装置](https://kns.cnki.net/kcms2/article/abstract?v=yLAonKG4u-QaQ5-7YPwTFALU7dhZ7TJvde3up856ii3nnU0k7PIiiYAXhLtYZHEX-a8q1940LcEoMJmO0cPF83xj_QpT0YNzixo8dHg7vwc5kRQoM6sfkGquWqz-LJXWW-ebzUJN0nXJF8dGP7tHjY2YMpo1PvlnQBNFcFXOriGQgo827a7AvVR0lDUn1JUO&uniplatform=NZKPT&captchaId=7aa4518b-d0d3-4e13-98cd-a09587d31c3c)
+
+[10] [一种用户停复电系统](https://kns.cnki.net/kcms2/article/abstract?v=yLAonKG4u-SIWIUcyWrrKYMI-bnwriXbX799024kE3iG29m1MCkp8F311vQAdxwui3Emfxo3BCE5S0zy_VoavOjaDP97ADNjSG6VCkfpR2XgpvyGS2nRSb-HZlPkA-sA2Q_4QgGpwd_LR89xAKlSWfeVdfuavgsa2VFNpVbYZJyDP1Mi-aoEC-xOQjUfg34p&uniplatform=NZKPT&captchaId=ce425195-c03c-499e-ae7a-723c1b5c39d3)
+
 # 🏆 Contest
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">数模</div><img src='/_pages/2022_math.png' alt="sym" width="100%"></div></div>
