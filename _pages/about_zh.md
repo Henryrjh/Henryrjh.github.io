@@ -36,7 +36,7 @@ author_profile: true
 
 **Jiahao Rao**; Rui Liu; Weiliang Tao; Jun Chen; Xin Tian
 
-ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=12.2}}$**)[代码](https://github.com/Henryrjh/GMDNet)
+ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=12.2}}$**) [代码](https://github.com/Henryrjh/GMDNet)
 
 </div>
 </div>
