@@ -29,7 +29,7 @@ author_profile: true
 
 # 📄 学术成果
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/GMDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [1] [Gaussian Mixture Distribution stereo matching network for satellite images](https://www.sciencedirect.com/science/article/pii/S0924271626003175)
