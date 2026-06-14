@@ -22,6 +22,7 @@ author_profile: true
 
 
 # 🔥 最新动态
+- *2026.06*: &nbsp;🎉🎉 我们的论文被 ISPRS 接收！
 - *2026.05*: &nbsp;🎉🎉 我们的论文被 TGRS 接收！
 - *2026.01*: &nbsp;🎉🎉 我们的论文被 ISPRS 接收！
 
@@ -31,7 +32,19 @@ author_profile: true
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[1] [Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)
+[1] [Gaussian Mixture Distribution stereo matching network for satellite images](https://www.sciencedirect.com/science/article/pii/S0924271626003175)
+
+**Jiahao Rao**; Rui Liu; Weiliang Tao; Jun Chen; Xin Tian
+
+ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=12.2}}$**)[代码](https://github.com/Henryrjh/GMDNet)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[2] [Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
@@ -43,7 +56,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026 (**$\color{red}{
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">多模态图像匹配</div><img src='/_pages/AMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[2] [AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213) 
+[3] [AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213) 
 **Jiahao Rao**; Rui Liu; Jianjun Guan; Xin Tian
 
 ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=12.2}}$**) [代码](https://github.com/Henryrjh/AMS_Former)
@@ -55,7 +68,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">卫星图像立体匹配</div><img src='/_pages/TGRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3] [Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831) 
+[4] [Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831) 
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
@@ -66,7 +79,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">声呐图盲超分辨率</div><img src='/_pages/DCRT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[4] [Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
+[5] [Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
 
 **Jiahao Rao**; Yini Peng; Jun Chen; Xin Tian
 
@@ -77,7 +90,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024 (**$\color{red}{
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">人因可靠性分析</div><img src='/_pages/terminal_risk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[5] [户外端子箱操作人因可靠性及其风险评价]([https://ieeexplore.ieee.org/abstract/document/10522780](https://kns.cnki.net/kcms2/article/abstract?v=LM91IAda-MdU3Z9xWHlDgRzzY078bQb-f6AVWxvUgBH-bhIJYNk4Imu1D7k_USmscb9mUZsujrUXIyObrIFwzwPDD0_kxiLomoB3mCdoxLgmgRrZNsPO07nBgsvEwVtj4BRn_6OaanE223ArWbGQ5fZyKmuQDiURajKCK_ZiBMIJ6sLwQ-XmdA&uniplatform=NZKPT&captchaId=5279f180-6460-469a-b165-5b418bd8af7a))
+[6] [户外端子箱操作人因可靠性及其风险评价]([https://ieeexplore.ieee.org/abstract/document/10522780](https://kns.cnki.net/kcms2/article/abstract?v=LM91IAda-MdU3Z9xWHlDgRzzY078bQb-f6AVWxvUgBH-bhIJYNk4Imu1D7k_USmscb9mUZsujrUXIyObrIFwzwPDD0_kxiLomoB3mCdoxLgmgRrZNsPO07nBgsvEwVtj4BRn_6OaanE223ArWbGQ5fZyKmuQDiURajKCK_ZiBMIJ6sLwQ-XmdA&uniplatform=NZKPT&captchaId=5279f180-6460-469a-b165-5b418bd8af7a))
 
 李仕林; 饶佳豪; 李蕊; 陈永青; 张崇亮; 田猛
 
