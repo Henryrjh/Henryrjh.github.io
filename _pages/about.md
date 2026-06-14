@@ -23,11 +23,24 @@ I am a Ph.D. student (Master-Doctor Combined Program) at the School of Electroni
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper has been accepted to ISPRS!
 - *2026.05*: &nbsp;🎉🎉 Our paper has been accepted to TGRS!
 - *2026.01*: &nbsp;🎉🎉 Our paper has been accepted to ISPRS!
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Satellite image stereo matching</div><img src='_pages/GMDNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gaussian Mixture Distribution stereo matching network for satellite images](https://www.sciencedirect.com/science/article/pii/S0924271626003175)
+
+**Jiahao Rao**; Rui Liu; Weiliang Tao; Jun Chen; Xin Tian
+
+ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}{\text{中科院 SCI 1区 TOP, IF=12.2}}$**) [Code](https://github.com/Henryrjh/GMDNet)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Satellite image stereo matching</div><img src='_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
