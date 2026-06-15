@@ -33,7 +33,7 @@ I am a Ph.D. student (Master-Doctor Combined Program) at the School of Electroni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Satellite image stereo matching</div><img src='_pages/GMDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gaussian Mixture Distribution stereo matching network for satellite images](https://www.sciencedirect.com/science/article/pii/S0924271626003175)
+[1] [Gaussian Mixture Distribution stereo matching network for satellite images](https://www.sciencedirect.com/science/article/pii/S0924271626003175)
 
 **Jiahao Rao**; Rui Liu; Weiliang Tao; Jun Chen; Xin Tian
 
@@ -45,7 +45,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Satellite image stereo matching</div><img src='_pages/UA-SISM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)
+[2] [Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images](https://ieeexplore.ieee.org/document/11494089)
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
@@ -57,7 +57,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2026, (**$\color{red}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multi-modal image matching</div><img src='_pages/AMS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213)
+[3] [AMS-Former: Adaptive multi-scale transformer for multi-modal image matching](https://www.sciencedirect.com/science/article/pii/S0924271626000213)
 
 **Jiahao Rao**; Rui Liu; Jianjun Guan; Xin Tian
 
@@ -69,7 +69,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026 (**$\color{red}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Satellite image stereo matching</div><img src='_pages/TGRNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831) 
+[4] [Texture-Guided Recurrent Network for Satellite Images Disparity Estimation](https://ieeexplore.ieee.org/abstract/document/11244831) 
 
 **Jiahao Rao**; Rui Liu; Jun Chen; Xin Tian
 
@@ -80,7 +80,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sonar blind image super-resolution</div><img src='_pages/DCRT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
+[5] [Various Degradation: Dual Cross-Refinement Transformer for Blind Sonar Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10522780)
 
 **Jiahao Rao**; Yini Peng; Jun Chen; Xin Tian
 
@@ -91,7 +91,7 @@ IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (**$\color{red}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Human Reliability Analysis</div><img src='/_pages/terminal_risk.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 
-[5] [Human Reliability and Risk Assessment of Outdoor Terminal Box Operations](https://kns.cnki.net/kcms2/article/abstract?v=LM91IAda-MdU3Z9xWHlDgRzzY078bQb-f6AVWxvUgBH-bhIJYNk4Imu1D7k_USmscb9mUZsujrUXIyObrIFwzwPDD0_kxiLomoB3mCdoxLgmgRrZNsPO07nBgsvEwVtj4BRn_6OaanE223ArWbGQ5fZyKmuQDiURajKCK_ZiBMIJ6sLwQ-XmdA&uniplatform=NZKPT&captchaId=5279f180-6460-469a-b165-5b418bd8af7a)
+[6] [Human Reliability and Risk Assessment of Outdoor Terminal Box Operations](https://kns.cnki.net/kcms2/article/abstract?v=LM91IAda-MdU3Z9xWHlDgRzzY078bQb-f6AVWxvUgBH-bhIJYNk4Imu1D7k_USmscb9mUZsujrUXIyObrIFwzwPDD0_kxiLomoB3mCdoxLgmgRrZNsPO07nBgsvEwVtj4BRn_6OaanE223ArWbGQ5fZyKmuQDiURajKCK_ZiBMIJ6sLwQ-XmdA&uniplatform=NZKPT&captchaId=5279f180-6460-469a-b165-5b418bd8af7a)
 
 Shilin Li; **Jiahao Rao**; Rui Li; Yongqing Chen; Chongliang Zhang; Meng Tian
 
