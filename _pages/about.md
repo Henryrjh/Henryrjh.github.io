@@ -138,17 +138,15 @@ Shilin Li; **Jiahao Rao**; Rui Li; Yongqing Chen; Chongliang Zhang; Meng Tian
 
 - *2024* — First-Class Academic Excellence Scholarship, Wuhan University (2024年武汉大学研究生一等优秀学业奖学金)
 
-- *2022* — Second-Class Academic Excellence Scholarship, Wuhan University  (2022年武汉大学研究生二等优秀学业奖学金)
+- *2021* — Second-Class Academic Excellence Scholarship, Wuhan University  (2021年武汉大学研究生二等优秀学业奖学金)
 
 - *2021* — Runner-up in Men’s Doubles, Graduate Table Tennis Competition, Wuhan University  (2021年武汉大学研究生乒乓球比赛男双亚军)
 
 - *2020* — Activist in Social Activities, Wuhan University  (2020年武汉大学社会活动积极分子)
 
-- *2020* — Outstanding Graduate Student, Wuhan University  (2020年武汉大学优秀研究生)
+- *2018* — Outstanding Student, Wuhan University  (2018年武汉大学优秀学生)
 
-- *2017* — Outstanding Student, Wuhan University  (2017年武汉大学优秀学生)
-
-- *2017* — Outstanding Student Scholarship, Wuhan University  (2017年武汉大学优秀学生奖学金)
+- *2018* — Outstanding Student Scholarship, Wuhan University  (2018年武汉大学优秀学生奖学金)
 
 - *2016* — Freshman Scholarship for Undergraduate Students, Wuhan University  (2016年武汉大学本科新生奖学金)
 
