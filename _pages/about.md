@@ -136,7 +136,7 @@ Shilin Li; **Jiahao Rao**; Rui Li; Yongqing Chen; Chongliang Zhang; Meng Tian
 
 # 🎖 Honors
 
-- *2026* — First-Class Academic Innovation Award, Wuhan University (2026年武汉大学研究生学术创新奖一等奖)
+- *2026* — First-Class Academic Innovation Award, Wuhan University (2026年武汉大学研究生学术创新奖一等奖, 50000人民币)
 
 - *2024* — First-Class Academic Excellence Scholarship, Wuhan University (2024年武汉大学研究生一等优秀学业奖学金)
 
